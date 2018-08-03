@@ -1,0 +1,13 @@
+DATA SCIENCE:
+    -first step of DATA science is to collect data and load data (Sources of data sources can be DB,files,API,web scraping based on the type of application)
+    
+    
+    
+    EDA(Exploratory Data Analysis)
+        histograms
+        KDE plots
+
+    Mean
+    median
+    variance
+    standard variation
